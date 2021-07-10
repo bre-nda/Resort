@@ -1,3 +1,9 @@
 h1 {
-    font-weight: 200;
+    font-weight: 2 300;
+    font-weight: bolder;
+}
+
+img {
+    width: 20%;
+    border-radius: 45px;
 }
